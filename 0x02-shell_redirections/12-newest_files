@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt --time-style=+"%Y-%m-%d %H:%M:%S" | grep "^-" | head -n 10 | tr -s   | cut -d   -f 9-
