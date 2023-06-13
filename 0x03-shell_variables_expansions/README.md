@@ -1,1 +1,3 @@
 alias
+$USER
+PATH
