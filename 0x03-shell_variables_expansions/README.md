@@ -1,3 +1,5 @@
 alias
 $USER
 PATH
+export
+((+))
