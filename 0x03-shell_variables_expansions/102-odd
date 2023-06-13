@@ -1,2 +1,1 @@
 #!/bin/bash
- cat -n input.txt | grep -E ^[[:space:]]*[02468] | cut -f2-
